@@ -1,1 +1,1 @@
-# WebXplorer
+# WeXplorer
